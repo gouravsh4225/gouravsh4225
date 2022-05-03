@@ -7,7 +7,7 @@ Senior System Engineer
 I'm experienced in developing products for the web, from simple landing pages to full-fledged web apps.
 
 * 🌍  I'm based in Gurugram
-* 🖥️  See my portfolio at [On github Page](http://gouravsh4225.github.io/v2-portfolio/)
+* 🖥️  See my portfolio at [here](http://gouravsh4225.github.io/v2-portfolio/)
 * ✉️  You can contact me at [gouravsh4225@gmail.com](mailto:gouravsh4225@gmail.com)
 * 🧠  I'm learning Node js
 * 🤝  I'm open to collaborating on interested web projects
